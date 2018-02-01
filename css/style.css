@@ -1,0 +1,67 @@
+html{
+	position: relative;
+}
+body {
+	margin-bottom:  100px;
+}
+.jumbotron img {
+	width: 100px;
+	border: 5px solid #666;
+}
+section{
+	min-height: 300px;
+}
+.about hr {
+	width: 400px;
+	border-top: 3px solid#999;
+}
+.organisasi hr {
+	width: 400px;
+	border-top: 3px solid#999;
+}
+.pendidikan hr {
+	width: 400px;
+	border-top: 3px solid#999;
+}
+.karya hr {
+	width: 400px;
+	border-top: 3px solid#999;
+}
+.karya{
+	padding-top:30px;
+}
+.hobby{
+	padding-top: 30px;
+}
+.pendidikan{
+	padding-top:30px
+} 
+.pendidikan img{
+	width: 750x;
+}
+.organisasi{
+	padding-top:30px;
+}
+.organisasi img{
+	width: 750px;
+}
+.Hobi hr {
+	width: 400px;
+	border-top: 3px solid#999;
+	background-color: #000;
+}
+.contact hr {
+	width: 400px;
+	border-top: 3px solid#999;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+ 	background-color: #333;
+ 	padding-top: 30px;
+}
+footer p {
+	color:#aaa;
+}
